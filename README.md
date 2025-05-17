@@ -21,23 +21,49 @@
 ---
 
 ### 🚀 Skills:
-- Ethical Hacking
-- Web Application Pentesting
-- Vulnerability Assessment
-- Git & GitHub
-- Linux Administration
-- OWASP Top 10 Knowledge
+- Ethical Hacking  
+- Web Application Pentesting  
+- Vulnerability Assessment  
+- Malware Removal  
+- SQL Injection  
+- Cross-Site Scripting (XSS)  
+- IDOR (Insecure Direct Object Reference)  
+- Shell Upload Exploitation  
+- VAPT (Vulnerability Assessment & Penetration Testing)  
+- Git & GitHub  
+- Linux Administration  
+- OWASP Top 10 Knowledge  
 
 ---
 
 ### 📚 Tools & Technologies:
 <p align="left">
   <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-FF6F00?style=for-the-badge&logo=OWASP&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-3A3A3A?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/FatRat-darkred?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RustScan-brown?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1A1F71?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+---
+
+### 🎓 Certifications:
+
+Here are some of the certifications I have earned from **Cisco Networking Academy**:
+
+- [x] Introduction to Cybersecurity  
+- [x] Networking Basics  
+- [x] Networking Basics and Initial Configuration  
+- [x] Endpoint Security  
+- [x] Network Defence  
+- [x] Cyber Threat Management  
+- [x] Junior Cybersecurity Analyst  
+
+> *Issued by Cisco Networking Academy — Recognized globally in the field of IT & Cybersecurity*
 
 ---
 
