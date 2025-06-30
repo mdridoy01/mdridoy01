@@ -25,11 +25,14 @@
 - Web Application Pentesting  
 - Vulnerability Assessment  
 - Malware Removal  
-- SQL Injection  
-- Cross-Site Scripting (XSS)  
-- IDOR (Insecure Direct Object Reference)  
-- Shell Upload Exploitation  
-- VAPT (Vulnerability Assessment & Penetration Testing)  
+- SQL Injection
+- SSRF
+- CSRF
+- RCE
+- XSS
+- IDOR 
+- Shell Upload 
+- VAPT 
 - Git & GitHub  
 - Linux Administration  
 - OWASP Top 10 Knowledge  
