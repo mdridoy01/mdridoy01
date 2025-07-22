@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm MD. Ridoy Hossain 👋</h1>
+<h1 align="center">Hi there, I'm MD. Ridoy Hossain </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Enthusiast;Ethical+Hacker;Web+Application+Pentester&center=true&width=500&height=45">
@@ -12,15 +12,15 @@
 
 ---
 
-### 🧑‍💻 About Me:
-- 🔭 I’m currently working on Web Penetration Testing Projects.
-- 🌱 I’m learning Ethical Hacking, Bug Bounty Hunting, and Cybersecurity.
-- 🛡️ I love securing digital applications & systems.
-- 📫 How to reach me: **ridu100200@gmail.com**
+###  About Me:
+- I’m currently working on Web Penetration Testing Projects.
+- I’m learning Ethical Hacking, Bug Bounty Hunting, and Cybersecurity.
+- I love securing digital applications & systems.
+- How to reach me: **ridu100200@gmail.com**
 
 ---
 
-### 🚀 Skills:
+###  Skills:
 - Ethical Hacking  
 - Web Application Pentesting  
 - Vulnerability Assessment  
@@ -39,7 +39,7 @@
 
 ---
 
-### 📚 Tools & Technologies:
+###  Tools & Technologies:
 <p align="left">
   <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP%20ZAP-FF6F00?style=for-the-badge&logo=OWASP&logoColor=white" />
@@ -54,7 +54,7 @@
 
 ---
 
-### 🎓 Certifications:
+###  Certifications:
 
 Here are some of the certifications I have earned from **Cisco Networking Academy**:
 
@@ -70,7 +70,7 @@ Here are some of the certifications I have earned from **Cisco Networking Academ
 
 ---
 
-### 📈 GitHub Stats:
+### GitHub Stats:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdridoy01&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdridoy01&theme=radical" />
