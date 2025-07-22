@@ -23,8 +23,9 @@
 ###  Skills:
 - Ethical Hacking  
 - Web Application Pentesting  
-- Vulnerability Assessment  
-- Malware Removal  
+- Vulnerability Assessment
+- Privilege Escalation
+- Malware Removal 
 - SQL Injection
 - SSRF
 - CSRF
